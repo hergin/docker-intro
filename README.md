@@ -7,6 +7,10 @@ To run the app and access it via localhost:3000, choose one of the following met
 * Clone this repository
 * Install the app via `npm install`
 * Start the app via `node app.js`
+* Install DB
+* Do other setups
+* Create temporary files
+* Etc.
 
 ## Docker
 * Install docker desktop for your OS
